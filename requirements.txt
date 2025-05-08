@@ -1,0 +1,8 @@
+streamlit
+pillow
+numpy
+matplotlib
+ultralytics
+opencv-contrib-python-headless
+python-dotenv
+google-generativeai
